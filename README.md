@@ -3,10 +3,10 @@
 
 ## **INDICE**
 
-* [1. Intro](https://github.com/Dariana26/clonacionGoogle/edit/main/README.md#1intro)
-* [2.Que contruí](https://github.com/Dariana26/clonacionGoogle/edit/main/README.md#2que-contru%C3%AD)
-* [3.Objetivo del proyecto](https://github.com/Dariana26/clonacionGoogle/edit/main/README.md#3objetivo-del-proyecto)
-* [4.Link a Demo](https://github.com/Dariana26/clonacionGoogle/edit/main/README.md#4link-a-demo)
+* [1. Intro](https://github.com/Dariana26/clonacionGoogle/blob/main/README.md#1intro)
+* [2.Que contruí](https://github.com/Dariana26/clonacionGoogle/blob/main/README.md#2que-contru%C3%AD)
+* [3.Objetivo del proyecto](https://github.com/Dariana26/clonacionGoogle/blob/main/README.md#3objetivo-del-proyecto)
+* [4.Link a Demo](https://github.com/Dariana26/clonacionGoogle/blob/main/README.md#4link-a-demo)
 
 ****
 
