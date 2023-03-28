@@ -27,4 +27,4 @@ Contiene las siguientes secciones:
 Aprender a utilizar las etiquetas estandar de HTML5 y CSS3.
 
 ## 4.Link a Dem
-Aqui puedes visualizar mi proyecto terminado: https://singular-taffy-7d683d.netlify.app/
+Aqui puedes visualizar mi proyecto terminado:[Clonacion de Google](https://singular-taffy-7d683d.netlify.app/)
